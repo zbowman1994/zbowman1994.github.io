@@ -12,6 +12,16 @@ h6 {
   font-family: 'Montserrat';
 }
 
+.greeting {
+	font-weight: 500;
+	font-size: 300%;
+	font-family: 'Montserrat';
+	
+}
+.highlight {
+  color: #2c3e50; 
+}
+  
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
