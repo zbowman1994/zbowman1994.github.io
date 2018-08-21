@@ -82,7 +82,7 @@ section h2 {
 
 .border{
   border-radius: 25px;
-  width: 600px;
+  width: 550px;
   border-color: black;
   margin: 0 auto;
 }
@@ -101,6 +101,11 @@ section h2 {
   height: 3.25rem;
   font-size: 1.25rem;
   line-height: 2rem;
+}
+
+.formformat {
+	border-radius: 25px;
+	background-color: #2C3E50 !important;
 }
 
 .scroll-to-top {
